@@ -31,4 +31,12 @@ En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 
 ![image](https://github.com/lam843/TP6/assets/78732216/3e23bf1e-8385-44ed-bfb4-d230ba688fcf)
 
+![image](https://github.com/lam843/TP6/assets/78732216/0f63704f-3a83-4d5f-9b36-efd4512bec3e)
+
+![image](https://github.com/lam843/TP6/assets/78732216/f192d62a-49dc-4248-8380-cc3945d4749b)
+
+#### Flux de donnée chaque 100 s:
+![image](https://github.com/lam843/TP6/assets/78732216/ff34098e-fcd1-4e7f-a9be-80de891e9d3a)
+
+
 
