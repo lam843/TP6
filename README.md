@@ -7,8 +7,7 @@
 - Démarrer Kafka-server
 - Tester avec Kefka-console-producer et kafka-console-consumer
 2. 
-Avec Docker (voir https://developer.confluent.io/quickstart/kafka-docker/)
-https://www.youtube.com/watch?v=9O1Kuk2xXO8
+Avec Docker
  - Créer le fichier docker-compose.yml
  - Démarrer les conteneurs docker : zookeeper et kafka-broker
  - Tester avec Kafka-console-producer et kafka-console-consumer
@@ -40,6 +39,14 @@ En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 
 #### Flux de donnée chaque 100 s:
 ![image](https://github.com/lam843/TP6/assets/78732216/ff34098e-fcd1-4e7f-a9be-80de891e9d3a)
+
+2.
+3.
+#### Analytics:
+![image](https://github.com/lam843/TP6/assets/78732216/499b4bf5-39a2-41e1-b2fe-efa54915e88d)
+
+#### Graph represenation using js:
+[screen-capture (5).webm](https://github.com/lam843/TP6/assets/78732216/11c146ac-3b58-4bcf-8544-853ce1317892)
 
 
 
