@@ -21,3 +21,6 @@ En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
 
 ===========================================================================================
+1. Télécharger Kafka et Démarrer Zookeeper avec  Kafka-server:
+![image](https://github.com/lam843/TP6/assets/78732216/f6783faa-676a-4699-9e3a-20cde772e462)
+
