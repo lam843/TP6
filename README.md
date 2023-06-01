@@ -25,7 +25,7 @@ En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 1. 
 #### Télécharger Kafka et Démarrer Zookeeper avec  Kafka-server:
 
-![image](https://github.com/lam843/TP6/assets/78732216/f6783faa-676a-4699-9e3a-20cde772e462)
+![image](https://github.com/lam843/TP6/assets/78732216/88cd6c69-ad6d-4801-b27f-aef7436b059f)
 
 #### Tester avec Kefka-console-producer et kafka-console-consumer:
 
